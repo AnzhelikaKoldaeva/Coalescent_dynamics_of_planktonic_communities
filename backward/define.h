@@ -1,0 +1,10 @@
+//
+// Created by paula on 17/11/13.
+//
+
+///IF YOU WANT ADVECTION DEFINE "ADVECTION"
+//#define ADVECTION
+
+#define TWO_DIMENSIONAL
+#define MUTATION_IN_DYNAMICS
+#define PRINT_SAD
